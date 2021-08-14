@@ -1,0 +1,3 @@
+[submodule "dependencies/ph_cmake"]
+	path = dependencies/ph_cmake
+	url = https://github.com/phiwen96/ph_cmake
